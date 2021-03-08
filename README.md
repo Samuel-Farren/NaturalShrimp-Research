@@ -73,7 +73,7 @@ A study was done utilizing a Bioflac Shrimp RAS system where they tracked the gr
 
 [Imgur](https://i.imgur.com/OAWcFym.png)
 
-<img src="https://i.imgur.com/OAWcFym.png" width="100" />
+<img src="https://i.imgur.com/OAWcFym.png" width="800" />
 
 Now imagine a growth rate of 1.6 grams per week, with shrimp only needing to be in Grow Out Tanks for only 10 weeks
 THIS IS JUST AN EXAMPLE DON’T QUOTE THIS NUMBER: With shrimp only in the grow out tanks for 10 weeks, now you can do a rolling shrimp stocking much much faster than it was earlier when shrimp were in the grow out tank for 15 weeks. Instead of harvesting 4 subsystems at a time (60 subsystems/15 weeks for the growout, thus allocating 4 subsystems per week), you can now allocate 6 subsystems for each weekly harvest (60 subsystems/10 weeks for the growout). So now it’s 240,000 gallons (908 cubic meters) harvested (each subsystem has 40000 gallons of growout). At a stocking density of 1000 shrimp per cubic meter that’s 908,000 shrimp, with 95% survivability that is around 860,000 shrimp, at 20 grams a piece this gives 38000 pounds of shrimp. 
