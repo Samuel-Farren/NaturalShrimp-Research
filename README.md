@@ -80,15 +80,15 @@ If we go the other way, and instead they grow at some small number like 0.8 gram
 
 **TABLE 2: Extrapolating based off Varying Parameters - Webster City:
 
-<img src="https://imgur.com/Eni6r0h" width="800" />
-<img src="https://imgur.com/RU69LDP" width="800" />
-<img src="https://imgur.com/h5UG3lX" width="800" />
+<img src="https://imgur.com/Eni6r0h.png" width="800" />
+<img src="https://imgur.com/RU69LDP.png" width="800" />
+<img src="https://imgur.com/h5UG3lX.png" width="800" />
 
 **TABLE 3: Extrapolating based off Varying Parameters - La Coste:
 
-<img src="https://imgur.com/yWVdmvG" width="800" />
-<img src="https://imgur.com/tM9jilQ" width="800" />
-<img src="https://imgur.com/rvcmXpC" width="800" />
+<img src="https://imgur.com/yWVdmvG.png" width="800" />
+<img src="https://imgur.com/tM9jilQ.png" width="800" />
+<img src="https://imgur.com/rvcmXpC.png" width="800" />
 
 **A Case for Genetic Breeding (Not Genetic Modification/GMOs) of Shrimpies:**
 
