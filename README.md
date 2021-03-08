@@ -71,11 +71,51 @@ A study was done utilizing a Bioflac Shrimp RAS system where they tracked the gr
 
 **TABLE 1: Time to reach 20 gram harvest size in Grow out tank assuming Static PL45 entry weight of 2.5 grams with exponential growth of 10% up to 4 grams. Linear growth starts at PL50**
 
-[Imgur](https://i.imgur.com/OAWcFym.png)
-
 <img src="https://i.imgur.com/OAWcFym.png" width="800" />
 
 Now imagine a growth rate of 1.6 grams per week, with shrimp only needing to be in Grow Out Tanks for only 10 weeks
 THIS IS JUST AN EXAMPLE DON’T QUOTE THIS NUMBER: With shrimp only in the grow out tanks for 10 weeks, now you can do a rolling shrimp stocking much much faster than it was earlier when shrimp were in the grow out tank for 15 weeks. Instead of harvesting 4 subsystems at a time (60 subsystems/15 weeks for the growout, thus allocating 4 subsystems per week), you can now allocate 6 subsystems for each weekly harvest (60 subsystems/10 weeks for the growout). So now it’s 240,000 gallons (908 cubic meters) harvested (each subsystem has 40000 gallons of growout). At a stocking density of 1000 shrimp per cubic meter that’s 908,000 shrimp, with 95% survivability that is around 860,000 shrimp, at 20 grams a piece this gives 38000 pounds of shrimp. 
 
 If we go the other way, and instead they grow at some small number like 0.8 grams per week, then now it will take 20 weeks in the grow out tanks to reach harvest weight. 20 weeks needed for growout will now only yield 3 subsystems able to be allocated for each week of harvest. So now you are only getting 120,000 gallons of capacity for each weekly harvest, and at the same parameters above, you get around 21000 pounds of shrimp per weekly harvest. 
+
+**TABLE 2: Extrapolating based off Varying Parameters - Webster City:
+
+<img src="https://imgur.com/Eni6r0h" width="800" />
+<img src="https://imgur.com/RU69LDP" width="800" />
+<img src="https://imgur.com/h5UG3lX" width="800" />
+
+**TABLE 3: Extrapolating based off Varying Parameters - La Coste:
+
+<img src="https://imgur.com/yWVdmvG" width="800" />
+<img src="https://imgur.com/tM9jilQ" width="800" />
+<img src="https://imgur.com/rvcmXpC" width="800" />
+
+**A Case for Genetic Breeding (Not Genetic Modification/GMOs) of Shrimpies:**
+
+As many will recall, NaturalShrimp and Hydrenesis are expecting to close on a 25 million dollar grant for a State of the Art Shrimp production facility in Northern Florida. In that PR [5], it states, “the proposed state of the art facility will house a shrimp production operation, a genetics and hatchery laboratory, and an R&D test-bed.” Note the Genetics and Hatchery Lab, which what I’m about to explain next will get at. In Reference [4] they talk about the potential of genetic shrimp breeding and how it can lead to faster growth rates given enough generations of reproduction. They alluded to metrics stating in a typical shrimp farm, the average growth rate of a shrimp is about 1 gram per week, however, a shrimp with optimal genetics and ideal growing conditions, they saw growth rates around 2.5 grams per week. Now if you are a commercial supplier of shrimp, and you are able to double the growth rate, you are now doubling the amount of harvests in a year. This would be absolutely huge. If NaturalShrimp is able to get to a point like this at their hatchery, where they can identify strands of shrimp that thrive in EC/Hydrogas environments and grow much faster, then reproduce those to get more shrimp of the same strand, then this is another step toward being way ahead of any competition out there. I believe this will be some of the R&D they will be doing in Florida, let alone producing their own PLs so they don’t have to rely on anyone else. 
+
+**Key Points:**
+-The growth rate of the shrimp directly impacts how many grow out tanks you can allocate per week for weekly harvests. A faster growth rate allows for more tanks to be utilized in a week and allows for more rolling stocks per year.
+Typical bioflac farms have stocking densities of around 450 shrimp per cubic meter, however, we know with our technology we can push the limit of stocking density, some quoting in upwards of 800 shrimp per cubic meter. I’m assuming they have tested various configurations of this 
+Good genetic strands in shrimp can lead to faster growth rates. With Naturalshrimp setting up a genetic hatchery in northern florida, we will most likely begin to see them producing PLs that are capable of higher growth rates.
+I believe the pounds per week we see from harvesting will only go up from the initial harvest as more key factors come into play.
+
+**Conclusion:**
+I like the stock, they are doing everything right in order to get ahead of anyone out there and prove they will be the standard for Aquaculture in the near future. Again, shoutout to the SHMP management team, Luke Timmons and team at Hydrenesis, and of course the never forgotten Peter Letizia, your handwork is paying off and as an investor I couldn’t be happier with how things are progressing. As for the SHMPers on the facebook group, thank you for always being positive and sharing the vision for what this technology will be. I hope at the minimum you learned something from this post and I didn’t waste your time. #CopperBottom
+
+
+
+References: 
+
+- 1: http://aquaticcommons.org/22966/1/IFRO-v15n4p1465-en.pdf
+- 2: https://extension.purdue.edu/extmedia/EC/EC-797-W.pdf
+- 3: https://seekingalpha.com/article/4259045-naturalshrimp-game-changing-lucrative-patent-on-raising-shrimp
+- 4: https://www.aquaculturealliance.org/advocate/genetics-key-to-maximum-growth-rate-for-shrimp/
+- 5: https://naturalshrimp.com/naturalshrimp-inc-and-hydrenesis-form-joint-venture-in-florida/
+
+
+
+
+
+
+
